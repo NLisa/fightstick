@@ -1,0 +1,3 @@
+[submodule "kaimana"]
+	path = kaimana
+	url = https://github.com/NLisa/kaimana
